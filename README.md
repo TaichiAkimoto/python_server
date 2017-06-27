@@ -11,4 +11,4 @@ show your favorite movies
 3. on **fresh_tomatoes.py**, actual html is outputted
 
 ## python
-In order to show html on webbrowser, we use _python standard library 'webbrowser'_
+In order to show html on webbrowser, we use _python standard library **webbrowser**_
